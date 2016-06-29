@@ -1,0 +1,14 @@
+[{
+	"modid": "shutup",
+	"name": "Shut Up",
+	"description": "A small mod that disables any non-player messages sent in the first 5 seconds of the game.",
+	"version": "${version}",
+	"mcversion": "${mcversion}",
+	"url": "",
+	"updateUrl": "",
+	"authorList": ["Xbony2"],
+	"credits": "Xbony2",
+	"logoFile": "",
+	"screenshots": [],
+	"dependencies": []
+}]
